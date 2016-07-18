@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringCalculate_UnitTest", "StringCalculate_UnitTest\StringCalculate_UnitTest.csproj", "{3E139AE3-6F46-408F-A132-DCC53788F0A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeKataPractice", "CodeKataPractice\CodeKataPractice.csproj", "{EBA1C09F-4301-4D49-B504-EED9C6E27D7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E139AE3-6F46-408F-A132-DCC53788F0A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E139AE3-6F46-408F-A132-DCC53788F0A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E139AE3-6F46-408F-A132-DCC53788F0A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E139AE3-6F46-408F-A132-DCC53788F0A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBA1C09F-4301-4D49-B504-EED9C6E27D7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBA1C09F-4301-4D49-B504-EED9C6E27D7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBA1C09F-4301-4D49-B504-EED9C6E27D7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBA1C09F-4301-4D49-B504-EED9C6E27D7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
